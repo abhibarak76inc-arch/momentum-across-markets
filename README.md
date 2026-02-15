@@ -17,4 +17,4 @@ Python backtest with performance, drawdowns, rolling Sharpe, and regression-base
 ## How to run
 ```bash
 pip install -r requirements.txt
-python src/momentum_analysis.py
+python src/Momentum.py
