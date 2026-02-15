@@ -4,8 +4,8 @@ Cross-sectional momentum across the US (S&P 500), India (BSE), and Japan (Nikkei
 Python backtest with performance, drawdowns, rolling Sharpe, and regression-based alpha test.
 
 ## Contents
-- `src/momentum_analysis.py` — strategy construction + backtest + plots + regressions
-- `data/momentum_data.xlsx` — input data
+- `src/Momentum.py` — strategy construction + backtest + plots + regressions
+- `data/Momentum strategyy-2.xlsx` — input data
 - `figures/` — output charts
 - `paper/` — report (PDF)
 
